@@ -1,4 +1,4 @@
-META360 v1601 (2016-03-19) by Carlos Sierra
+META360 v1602 (2016-09-17) by Carlos Sierra
 
 META360 is a "free to use" tool to extract DDL metadata out of an Oracle database.
 META360 installs nothing. For better results execute connected as DBA or application user.
